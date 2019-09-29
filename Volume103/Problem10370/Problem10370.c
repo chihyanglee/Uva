@@ -1,5 +1,6 @@
 /*
   https://uva.onlinejudge.org/external/103/10370.pdf
+  https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=15&page=show_problem&problem=1311
   10370 Above Average
   It is said that 90% of frosh expect to be above
   average in their class. You are to provide a
