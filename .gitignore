@@ -1,0 +1,10 @@
+# object file without extension
+*
+!/**/
+!*.*
+
+# vscode folder
+.vscode
+
+# gcc executable file
+*.out
